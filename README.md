@@ -1,6 +1,3 @@
-Sure! Here's a template for a profile README for AimanFadillah:
-
-markdown
 # Hi there, I'm AimanFadillah 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and continuous learning. Below you can find a little more about me and my work.
