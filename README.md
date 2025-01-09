@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## My Skills
 
-- **Languages:** Python, JavaScript, C++, Java
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, AWS
+- **Languages:** Python, JavaScript, PHP
+- **Frameworks:** React, Node.js, Laravel, Vue, Flutter
+- **Tools:** Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## Projects
