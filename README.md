@@ -24,14 +24,6 @@ Here are some of the projects I've worked on:
 - [**Another Project:**](https://github.com/AimanFadillah/another-project)
   - Description: A brief description of what the project does and the technologies used.
 
-## Get in Touch
-
-- 📫 **Email:** [aiman@example.com](mailto:aiman@example.com)
-- 💼 **LinkedIn:** [AimanFadillah](https://www.linkedin.com/in/aimanfadillah/)
-- 🌐 **Website:** [aimanfadillah.com](https://aimanfadillah.com)
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
-
 ## GitHub Stats
 
 ![AimanFadillah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimanFadillah&show_icons=true&theme=radical)
