@@ -15,15 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - **Tools:** Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- [**Project Name:**](https://github.com/AimanFadillah/project-name)
-  - Description: A brief description of what the project does and the technologies used.
-- [**Another Project:**](https://github.com/AimanFadillah/another-project)
-  - Description: A brief description of what the project does and the technologies used.
-
 ## GitHub Stats
 
 ![AimanFadillah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimanFadillah&show_icons=true&theme=radical)
