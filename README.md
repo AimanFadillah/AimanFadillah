@@ -20,5 +20,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ![AimanFadillah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimanFadillah&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊
-
-Feel free to customize it further with more details or specific projects you want to showcase. This README gives a good overview of who you are, your skills, and how to get in touch with you.
